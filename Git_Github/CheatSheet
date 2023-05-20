@@ -12,3 +12,4 @@ git push origin nombre_rama : Actualiza las ramas en el repositorio remoto
 git pull origin nombre_rama: Actualiza los archivos contra la rama actual
 git branch nuevaRama: Crear una nueva rama
 git merge rama: une la rama con la rama principal(main o master)
+git clone "nombre del repositorio remoto":Clonar un repositorio que ya esta en github
