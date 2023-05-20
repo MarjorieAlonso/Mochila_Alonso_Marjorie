@@ -1,0 +1,14 @@
+Comandos git :
+git init: Con este comando crea el repositorio de git
+git config user.name : configura el nombre de usuario del repositorio
+git config user.email:Configura el email del usuario del repositorio
+git status: Verifica el estado de los archivos o carpetas
+git add : Añade los cambios echos en el proyecto
+git commit -m "":Guarda los cambios del staging area al repositorio, siempre va con un mensaje descriptivo  
+git checkhout --archivo: Recupera el archivo eliminado( se usa solo en caso de que el archivo no se haya  añadido al area de trabajo temporal)
+git log: Muestra el historial de actividad
+git checkout nombre_archivo: Permite realizar el cambio de una rama a otra
+git push origin nombre_rama : Actualiza las ramas en el repositorio remoto
+git pull origin nombre_rama: Actualiza los archivos contra la rama actual
+git branch nuevaRama: Crear una nueva rama
+git merge rama: une la rama con la rama principal(main o master)
