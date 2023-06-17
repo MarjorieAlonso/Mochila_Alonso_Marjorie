@@ -1,0 +1,3 @@
+Direccion mac:08:00:27:e2:3a:77
+Direccion ip privada: 10.0.2.15
+La direccion Publica de nuestra host y nuestra maquina virtual es la misma, pero la direccion ip privada no es la misma
